@@ -1,7 +1,7 @@
 # PDF-summarizer
 Summarize PDFs efficiently with AI models
 
-Ministral-3-3B-Instruct.gguf : https://drive.google.com/file/d/1j9GCFfY3D7DvzL6wgAl1ikEqznlOOkvk/view?usp=sharing
+qwen2.5-3b-instruct.gguf : https://drive.google.com/file/d/1BvjMWoJ7kssREHf80bpFQXjspOMgPZXP/view?usp=sharing
 
 Meta-Llama-3.1-8B-Instruct.gguf : https://drive.google.com/file/d/1xwGq-wOcXkCYZwXB5E2ObzkEo6XMElvm/view?usp=sharing
 
